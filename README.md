@@ -78,4 +78,3 @@ Supported proxy types:
 ## Test
 * Nothing yet
 
-1
